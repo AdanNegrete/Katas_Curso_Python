@@ -1,2 +1,2 @@
 # Katas_Primera_Mision
-Katas completadas de la Primera Misión: Programación
+Archivos de las Katas completadas pertenecientes a la primera misión (Curso Introductorio de Python)
